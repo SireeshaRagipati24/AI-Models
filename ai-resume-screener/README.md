@@ -117,7 +117,7 @@ Hyderabad, India
 ## 🌐 Live Demo
 You can try the live version of this AI Resume Screener here:
 ### [👉 Click Here to View Live Project](https://ai-model-screener.onrender.com)
-[![GitHub Repo](https://www.linkedin.com/in/sireesha-ragipati-269a10244/)
+
 ---
 
 ## 📄 License
